@@ -271,10 +271,6 @@
         border-color: #fff;
         color: #fff;
     }
-    .navbar-toggler svg{
-        color: #fff;
-        font-size: 35px;
-    }
     .nav-item a{
         margin: 0px 15px;
     }
